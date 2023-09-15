@@ -1,0 +1,1 @@
+This week worked on experimenting with the turtle library

@@ -1,0 +1,1 @@
+this weak was introductory to python where we learnt about pseudocode and basic programming

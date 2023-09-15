@@ -1,0 +1,1 @@
+This week was a focus on opening and manipulating CSV files

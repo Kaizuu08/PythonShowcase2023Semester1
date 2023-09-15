@@ -1,0 +1,1 @@
+This week worked on making a chatbox as well as a pseudocode for it, in this case i made a pseudo diagram

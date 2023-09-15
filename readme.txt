@@ -1,0 +1,1 @@
+The following is a recollection of my pyhthon programming projects I have undertaken throughout my studies. Each folder contains the python program that I worked on that week and a text file containing a description of what it is about. 

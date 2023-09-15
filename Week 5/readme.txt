@@ -1,0 +1,1 @@
+This week we utilised earsketch to create music using python coding
